@@ -45,3 +45,6 @@ for x in range(6):
         button_symbols[x,y] = symbols.pop()
 
 win.mainloop()
+"""
+ethem
+"""
